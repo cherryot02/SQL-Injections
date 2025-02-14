@@ -80,7 +80,7 @@ starting from 0,1-7,1.<br />
 </b>
 
 >[!NOTE]
-> Next, Breaking more queries!
+> Next, [Breaking more queries](https://github.com/cherryot02/SQL-Injections/blob/main/Breaking-More-Queries.md)!
 
 
 
