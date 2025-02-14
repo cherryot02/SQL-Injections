@@ -32,8 +32,8 @@ Websites:
     <li> Steps-on-how-to-3 - https://sql--injection.blogspot.com/p/sql-injection-tutorial-walkthrough-with.html </li>
   </ul>
   
-
-
+# START
+Start with my [First Injection](https://github.com/cherryot02/SQL-Injections/blob/main/First-Injection.md)!
 
 > [!NOTE] 
 > I suggest doing these in a VM.
