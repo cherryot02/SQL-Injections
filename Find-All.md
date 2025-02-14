@@ -62,4 +62,4 @@ This is also a great way to test your websites against SQL injections, so make s
 
 
 >[!Important]
->Thank you looking through these! These gave a headache but fun nonetheless :)
+>Thank you looking through these! These gave me a headache but fun nonetheless :)
