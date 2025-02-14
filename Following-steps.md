@@ -22,7 +22,7 @@ Resources I have used are the following:<br />
 Server: VA Cyber Range <br />
 Websites:
   <ul>
-    <li>[Steps-on-how-to-1](https://www.picoctf.org/](http://testphp.vulnweb.com/)</li>
+    <li>[Steps-on-how-to-1](http://testphp.vulnweb.com/)</li>
     <li>[Steps-on-how-to-2](https://www.hackingarticles.in/manual-sql-injection-exploitation-step-step/)</li>
     <li>[Steps-on-how-to-3](https://sql--injection.blogspot.com/p/sql-injection-tutorial-walkthrough-with.html)</li>
   </ul>
