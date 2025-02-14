@@ -1,6 +1,7 @@
 # Introduction and Resources
 > [!IMPORTANT] 
-> These are from my lab works so they are not exactly complete. :sweat_smile:<br />
+> Please do not do this at home, this is just documentations of how I did the lab. <br />
+> Also, I worked on this in early 2024. :sweat_smile:<br />
 
 ## SQL Injections
 I learned a little bit of creating databases with Microsoft Access and Excel in one of my first few classes for an Associates degree. <br />
@@ -31,5 +32,4 @@ Websites:
 
 
 > [!NOTE] 
-> Please do not do this at home, this is just documentations of how I did the lab. <br />
-> Also, I worked on this in early 2024.
+> I suggest doing these in a VM.
