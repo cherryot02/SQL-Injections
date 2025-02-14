@@ -79,7 +79,7 @@ Then I jumped higher jumped higher. 5,1 pictures<br />
 starting from 0,1-7,1.<br />
 </b>
 
->!NOTE
+>[!NOTE]
 > Next, Breaking more queries!
 
 
