@@ -53,5 +53,5 @@ which added a content with numbers. 2, 7 ,9 are numbers we can modify to for mor
 So 10 artists in record?<br />
 
 >[!NOTE]
->Next, finding all the records!
+>Next, [finding all the records](https://github.com/cherryot02/SQL-Injections/blob/main/Find-All.md)!
 
