@@ -1,6 +1,6 @@
 # Introduction and Resources
 > [!IMPORTANT] 
-> Please do not do this at home, this is just documentations of how I did the lab. <br />
+> Please do not do this at home, this is just documentation of how I did the lab. <br />
 > Also, I worked on this in early 2024. :sweat_smile:<br />
 
 ## SQL Injections
