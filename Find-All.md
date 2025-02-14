@@ -56,7 +56,7 @@ the exploitation can get easier. I am someone who do not have experience at all 
 There are alternative ways to do these, I actually did not follow certain instructions because I thought the instruction was a bit time consuming <br />
 (ex. displayed all the records at once, instead of doing it table by table).<br />
 
-In conclusion, having an unsecured website and bad coding can lead various exploitation as "easy" as these. <br />
+In conclusion, having an unsecured website and bad coding can lead to various risks that can be exploited as "easy" as these. <br />
 This is also a great way to test your websites against SQL injections, so make sure all security measure in place are working well and sites are programmed neatly.<br /><br />
 
 
