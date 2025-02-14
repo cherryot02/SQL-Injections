@@ -21,6 +21,8 @@ With my little knowledge, I do know that the SQL injections may not work for eve
 I am pretty sure they have a more secured environment and good code for attack like these to not happen. <br />
 
 With that being said, this is a lab on how to do SQL injections, for educational purposes only.<br />
+
+
 Resources I have used are the following:<br />
 Server: VA Cyber Range <br />
 Websites:
