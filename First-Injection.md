@@ -6,7 +6,7 @@ http://testphp.vulnweb.com/artists.php?artist=1
 ```
 So before I did the injection, I looked over what information is publicly out in the site just so I can tell any differences after injecting. <br />
 
-So then first tried the commands on the first link<br />
+So then first tried the commands on the second link from my resources.<br />
 I added a ‘ <br />
 
 Result: 
