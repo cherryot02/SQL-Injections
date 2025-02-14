@@ -23,7 +23,7 @@ I am pretty sure they have a more secured environment and good code for attack l
 With that being said, this is a lab on how to do SQL injections, for educational purposes only.<br />
 
 
-Resources I have used are the following:<br />
+## Resources I have used are the following:<br />
 Server: VA Cyber Range <br />
 Websites:
   <ul>
