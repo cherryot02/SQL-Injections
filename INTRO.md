@@ -8,6 +8,7 @@ I learned a little bit of creating databases with Microsoft Access and Excel in 
 Only tiny bit of that we learn how to use SQL queries where you basically do some  <br />
 ```
 SELECT * 
+FROM sometable
 WHERE name.whatever
 ```
 
