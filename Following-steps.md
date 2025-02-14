@@ -22,11 +22,12 @@ Resources I have used are the following:<br />
 Server: VA Cyber Range <br />
 Websites:
   <ul>
-    <li> [HTB CTF](https://ctf.hackthebox.com/events/upcoming) (http://testphp.vulnweb.com/) </li>
-    <li> [Steps-on-how-to-2](https://www.hackingarticles.in/manual-sql-injection-exploitation-step-step/) </li>
-    <li> [Steps-on-how-to-3](https://sql--injection.blogspot.com/p/sql-injection-tutorial-walkthrough-with.html) </li>
+    <li> Testing site - http://testphp.vulnweb.com</li>
+    <li> Steps-on-how-to-2 - https://www.hackingarticles.in/manual-sql-injection-exploitation-step-step/ </li>
+    <li> Steps-on-how-to-3 - https://sql--injection.blogspot.com/p/sql-injection-tutorial-walkthrough-with.html </li>
   </ul>
   
+
 
 
 > [!NOTE] 
