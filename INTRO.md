@@ -24,7 +24,7 @@ With that being said, this is a lab on how to do SQL injections, for educational
 
 
 ## Resources I have used are the following:<br />
-Server: VA Cyber Range <br />
+
 Websites:
   <ul>
     <li> Testing site - http://testphp.vulnweb.com</li>
