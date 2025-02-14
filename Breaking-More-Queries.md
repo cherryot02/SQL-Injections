@@ -12,7 +12,7 @@ I tried the commands on the second SQL tutorial link. I tried looking for the â€
 
 So I copied and pasted some of the sample links form the tutorial but the whole site cannot be reached so I did step slowly as follows.<br />
 
-I went to the home index page and then pasted the followings:
+I went to the home index page and then pasted the following:
 ```
 http://testphp.vulnweb.com/listproducts.php?
 ```
@@ -31,7 +31,27 @@ so just navigating around, instead of copy/paste.<br />
 http://testphp.vulnweb.com/listproducts.php?cat=1
 ```
 Should pop up these contents.
-![image](https://github.com/user-attachments/assets/99b1352a-4aa2-435f-8916-a560904de730)
+![image](https://github.com/user-attachments/assets/99b1352a-4aa2-435f-8916-a560904de730) <br />
 
+So I then went to to do ORDER BY <br />
+1, did nothing, 2 rerranged the contents and so on <br />
+![image](https://github.com/user-attachments/assets/8818656e-2553-42bc-98e8-a4917f3f489e)<br />
 
+Stopped at ORDER BY 12, because now thereâ€™s an error. So this one has 11 columns only. <br />
+![image](https://github.com/user-attachments/assets/b4a6bef6-d924-45ed-9760-d3fb11c60290)<br />
+
+Then used the UNION SELECT<br />
+```
+http://testphp.vulnweb.com/listproducts.php?cat=1%20UNION%20SELECT%201,2,3,4,5,6,7,8,9,10,11 
+```
+which added a content with numbers. 2, 7 ,9 are numbers we can modify to for more injections. <br />
+![image](https://github.com/user-attachments/assets/8ffb59a0-61ac-43f3-b69b-3011e1b4d28c)<br />
+
+9 was a hyperlink and hovering showed this: artist=10
+![image](https://github.com/user-attachments/assets/7eec124c-779f-41a6-98dd-7ffc6789e3b7)
+
+So 10 artists in record?<br />
+
+>[!NOTE]
+>Next, finding all the records!
 
