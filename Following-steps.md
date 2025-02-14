@@ -10,11 +10,12 @@ SELECT *
 WHERE name.whatever
 ```
 
-Stuff like that.
+Stuff like that.<br />
 
 With SQL injections, we are basically doing the same thing except we have those in the input section where you would usually type in some information. <br />
-Most databases will most likely have some type of relational tables labeled with some possible PII, which is the most likely target of a cyber criminal who is is the injections. <br />
-With my little knowledge, I do know that the SQL injections may not work for every databases unless they are using SQL, and with most modern companies, I am pretty sure they have a more secured environment and good code for attack like these to not happen. <br />
+Most databases will most likely have some type of relational tables labeled with some possible PII, which is the most likely the target of a cyber criminal who is into injections. <br />
+With my little knowledge, I do know that the SQL injections may not work for every databases unless they are using SQL, and with most modern companies, <br />
+I am pretty sure they have a more secured environment and good code for attack like these to not happen. <br />
 
 With that being said, this is a lab on how to do SQL injections, for educational purposes only.<br />
 Resources I have used are the following:<br />
