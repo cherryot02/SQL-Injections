@@ -18,8 +18,8 @@ With SQL injections, we are basically doing the same thing except we have those 
 
 Most databases will most likely have some type of relational table labeled with some possible PII, which is the target of a cyber criminal who will exploit that. <br />
 
-With my little knowledge, I do know that the SQL injections may not work for every databases unless they are using SQL, and with most modern companies, <br />
-I am pretty sure they have a more secured environment and good code for attack like these to not happen. <br />
+With my little knowledge, I do know that the SQL injections may not work for every databases unless they are using SQL, <br />
+and with most modern companies, I am pretty sure they have a more secured environment and good code for attack like these to not happen. <br />
 
 With that being said, this is a lab on how to do SQL injections, for educational purposes only.<br />
 
