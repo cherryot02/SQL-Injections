@@ -30,7 +30,7 @@ Then did <br />
 ```
 union select 1,2,3
 ```
-Which nothing showed up.<br />
+Which nothing new showed up.<br />
 ![image](https://github.com/user-attachments/assets/34a255aa-c42f-4d73-aeb9-16bf52baf154)<br />
 
 I changed artist=1 to a -1. <br />
