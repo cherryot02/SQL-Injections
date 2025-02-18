@@ -37,4 +37,4 @@ Websites:
 Start with my [First Injection](https://github.com/cherryot02/SQL-Injections/blob/main/First-Injection.md)!
 
 > [!NOTE] 
-> I suggest doing these in a VM.
+> I suggest doing these in a VM though.
