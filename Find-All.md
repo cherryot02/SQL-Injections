@@ -51,7 +51,7 @@ http://testphp.vulnweb.com/listproducts.php?cat=1%20UNION%20SELECT%201,2,3,4,5,6
 
 # Conclusions
 This marks the end of this lab. <br />
-SQL is medium level, if you are diligent and have spare time to actually look through understanding why such injections worked, <br />
+SQL injections is said to be beginner level, if you are diligent and have spare time to actually look through understanding why such injections worked, <br />
 the exploitation can get easier. I am someone who do not have experience at all when it comes to these but I was able to do my work. <br />
 There are alternative ways to do these, I actually did not follow certain instructions because I thought the instruction was a bit time consuming <br />
 (ex. displayed all the records at once, instead of doing it table by table).<br />
